@@ -1,4 +1,5 @@
-Flight Management System A .NET Core 8 MVC project with SQL Server
+***Flight Management System***
+A .NET Core 8 MVC project with SQL Server
 database and IIS Out-Of-Process hosting
 
 ------------------------------------------------------------------------
