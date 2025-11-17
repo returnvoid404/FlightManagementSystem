@@ -1,0 +1,41 @@
+﻿@model LoginViewModel
+
+@{
+    ViewBag.Title = "User Login";
+}
+
+<div class="container d-flex justify-content-center align-items-center mt-5">
+    <div class="card shadow p-4" style="max-width: 400px; width: 100%; border-radius: 10px;">
+        <h3 class="text-center mb-4">Login to Your Account</h3>
+
+        <form asp-controller="Account" asp-action="Login" method="post" novalidate>
+            @Html.AntiForgeryToken()
+            <div asp-validation-summary="All" class="text-danger mb-3 text-center"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Email" class="form-label"></label>
+                <input asp-for="Email" class="form-control login-input" placeholder="Enter your email" />
+                <span asp-validation-for="Email" class="text-danger small"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Password" class="form-label"></label>
+                <input asp-for="Password" class="form-control login-input" placeholder="Enter your password" />
+                <span asp-validation-for="Password" class="text-danger small"></span>
+            </div>
+
+            <div class="form-group mb-4 text-center">
+                <input asp-for="RememberMe" class="form-check-input me-2" />
+                <label asp-for="RememberMe" class="form-check-label"></label>
+            </div>
+            <input type="hidden" name="returnUrl" value="@ViewData["ReturnUrl"]" />
+            <div class="d-grid">
+                <button type="submit" class="btn btn-custom-secondary btn-lg">Login</button>
+            </div>
+        </form>
+
+        <div class="text-center mt-3">
+            <small>Don’t have an account? <a asp-action="Register" asp-controller="Account" style="text-decoration:none;color:#006D5B;text-decoration:underline;">Sign up</a></small>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,187 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FlightManagement
+build_property.RootNamespace = FlightManagement
+build_property.ProjectDir = D:\DBMS Project\FlightManagement\FlightManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\DBMS Project\FlightManagement\FlightManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xBY2NvdW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xBY2NvdW50XFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Account/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xBY2NvdW50XF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Admin/CreateFlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xBZG1pblxDcmVhdGVGbGlnaHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Admin/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xBZG1pblxDcmVhdGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Admin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xBZG1pblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Admin/EditFlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xBZG1pblxFZGl0RmxpZ2h0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Admin/EditRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xBZG1pblxFZGl0Um9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Admin/EditUsersInRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xBZG1pblxFZGl0VXNlcnNJblJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xBZG1pblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Admin/ListRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xBZG1pblxMaXN0Um9sZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Bookings/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xCb29raW5nc1xDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Bookings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xCb29raW5nc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Bookings/MyBookings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xCb29raW5nc1xNeUJvb2tpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Error/ErrorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xFcnJvclxFcnJvclBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xIb21lXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Shared/ErrorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xTaGFyZWRcRXJyb3JQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/FlightManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmxpZ2h0TWFuYWdlbWVudFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Account/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Admin/CreateFlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlRmxpZ2h0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Admin/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Admin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Admin/EditFlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdEZsaWdodC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Admin/EditRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Admin/EditUsersInRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFVzZXJzSW5Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Admin/ListRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdFJvbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Bookings/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Bookings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Bookings/MyBookings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ3NcTXlCb29raW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Error/ErrorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcRXJyb3JQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Shared/ErrorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DBMS Project/FlightManagement/FlightManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,62 @@
+﻿@model BookingViewModel
+@{
+    ViewBag.Title = "Book Flight";
+}
+
+<div class="container mt-5">
+    <div class="d-flex align-items-center my-4">
+        <a asp-controller="Home" asp-action="Details" asp-route-FlightId="@Model.FlightId" class="btn back-btn-custom me-3">← Back</a>
+        <h3 class="mb-0 mx-auto">Book Flight @Model.FlightNumber</h3>
+    </div>
+    <form asp-action="Create" asp-controller="Bookings" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="FlightId" />
+
+        <div class="mb-3">
+            <label asp-for="SeatNumber" class="form-label">Seat Number</label>
+            <select asp-for="SeatNumber" class="form-select">
+                <option value="">-- Select Seat --</option>
+                @foreach (var seat in Model.AvailableSeats)
+
+                {
+                    <option value="@seat">@seat</option>
+                }
+            </select>
+            <span asp-validation-for="SeatNumber" class="text-danger small"></span>
+        </div>
+
+        <hr />
+        <h5>Passenger Details</h5>
+        <div class="mb-3">
+            <label asp-for="FirstName" class="form-label"></label>
+            <input asp-for="FirstName" class="form-control register-input" />
+            <span asp-validation-for="FirstName" class="text-danger small"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="LastName" class="form-label"></label>
+            <input asp-for="LastName" class="form-control register-input" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label"></label>
+            <input asp-for="Email" class="form-control register-input" />
+            <span asp-validation-for="Email" class="text-danger small"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Phone" class="form-label"></label>
+            <input asp-for="Phone" class="form-control register-input" />
+            <span asp-validation-for="Phone" class="text-danger small"></span>
+
+        </div>
+        <div class="mb-3">
+            <label asp-for="PassportNumber" class="form-label"></label>
+            <input asp-for="PassportNumber" class="form-control register-input" />
+            <span asp-validation-for="PassportNumber" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label fw-bold">Total Price:</label>
+            <input asp-for="Price" class="form-control register-input" readonly />
+        </div>
+        <button type="submit" class="btn btn-custom-primary w-100">Book Now</button>
+    </form>
+</div>

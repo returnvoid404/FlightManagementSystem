@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = ViewBag.ErrorTitle ?? "Error";
+}
+
+
+<div class="d-flex flex-column align-items-center justify-content-center text-center position-relative"
+     style="min-height: 70vh;">
+    <h1 class="position-absolute fw-bold display-1"
+        style="font-size: 15rem; color: rgba(0,0,0,0.08); top: 50%; left: 50%; transform: translate(-50%, -50%);">
+        @ViewBag.ErrorCode
+    </h1>
+
+    <div class="position-relative" style="z-index: 10;">
+        <h2 class="fw-bold">@ViewBag.ErrorTitle</h2>
+        <p class="mb-4">@ViewBag.ErrorMessage</p>
+        <a asp-controller="Home" asp-action="Index" class="btn btn-custom-secondary mt-3">← Back to Home</a>
+    </div>
+</div>

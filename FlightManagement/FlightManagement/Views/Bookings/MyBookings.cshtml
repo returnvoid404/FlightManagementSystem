@@ -1,0 +1,51 @@
+﻿@model List<FlightManagement.Models.Booking>
+
+@{
+    ViewBag.Title = "My Bookings";
+}
+
+<div class="container mt-5">
+    <div class="d-flex align-items-center my-4">
+        <a asp-controller="Home" asp-action="Index" class="btn back-btn-custom me-3">← Back</a>
+        <h3 class="mb-0 mx-auto">My Books</h3>
+    </div>
+    @if (!Model.Any())
+    {
+        <p class="text-center text-muted">You haven’t booked any flights yet.</p>
+    }
+    else
+    {
+        <table class="table table-bordered table-striped table-hover table-responsive">
+            <thead class="main-background-color">
+                <tr>
+                    <th>Booking ID</th>
+                    <th>Flight</th>
+                    <th>Seat</th>
+                    <th>Ticket Price</th>
+                    <th>Booking Date</th>
+                    <th>Departure Date/Time</th>
+                    <th>Arrival Date/Time</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var booking in Model)
+                {
+                    <tr>
+                        <td>@booking.BookingId</td>
+                        <td>
+                            @booking.Flight.FlightNumber <br />
+                            <small class="text-muted">
+                                @booking.Flight.OriginAirport.AirportName → @booking.Flight.DestinationAirport.AirportName
+                            </small>
+                        </td>
+                        <td>@booking.SeatNumber</td>
+                        <td>Rs. @booking.Price</td>
+                        <td>@booking.BookingDate?.ToString("dd MMM yyyy")</td>
+                        <td>@booking.Flight.DepartureTime</td>
+                        <td>@booking.Flight.ArrivalTime</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

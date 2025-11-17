@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Flight>
+@{
+    ViewBag.Title = "Book a flight";
+}
+<h3 class="text-center mt-4">Book a Flight</h3>
+<p class="text-center mb-4">
+    Search for flights and book online.
+    See our routes<br /> and schedules, and discover more about the experience
+    you<br /> can look forward to on board.
+</p>
+<div class="container">
+
+
+    <div class="tab-content mt-3" id="flightTabsContent">
+        @{
+            foreach (var flight in Model)
+            {
+                <div class="card mb-3 rounded-5">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center justify-content-between">
+                            <!-- Left: Departure City & Time -->
+                            <div class="text-center">
+                                <span class="text-secondary fs-6">@flight.DepartureTime</span>
+                                <div class="city">@flight.OriginAirport.AirportName</div>
+                                <span class="text-secondary fs-6">@flight.OriginAirport.City, @flight.OriginAirport.Country</span>
+                            </div>
+
+                            <!-- Arrow Container -->
+                            <div class="arrow-container"></div>
+
+                            <!-- Right: Arrival City & Time -->
+                            <div class="text-center">
+                                <span class="text-secondary fs-6">@flight.ArrivalTime</span>
+                                <div class="city">@flight.DestinationAirport.AirportName</div>
+                                <span class="text-secondary fs-6">@flight.DestinationAirport.City, @flight.DestinationAirport.Country</span>
+                            </div>
+                        </div>
+                        <!-- Flight Number in the Middle -->
+                        <div class="d-flex flex-column gap-3 gap-md-0 flex-md-row align-items-center justify-content-between mt-3">
+                            <div class="text-start">
+                                <img src="~/images/logo.png" width="20" height="20" asp-append-version="true" />
+                                <span class="text-secondary">@flight.Aircraft.Model, @flight.Aircraft.Manufacturer</span>
+                            </div>
+                            <div class="d-flex justify-content-center">
+                                <a asp-controller="home" asp-action="details" asp-route-FlightId="@flight.FlightId" class="btn btn-custom-primary text-uppercase">
+                                    View Details
+                                </a>
+                            </div>
+                            <div class="d-flex justify-content-end">
+                                <div class="text-end align-items-center">
+                                    <span>Rs:</span>
+                                    <span class="fw-bold fs-2" style="color:#006D5B">@flight.Price</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            }
+        }
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        // Hover effect: Add/remove background color on hover
+        $("div.card").on("mouseenter", function () {
+            $(this).addClass("bg-light");  // Adds a light background on hover
+        }).on("mouseleave", function () {
+            $(this).removeClass("bg-light");  // Removes the background when hover ends
+        });
+    });
+</script>

@@ -1,0 +1,233 @@
+﻿body {
+    position: relative;
+    background-color: #F9F9F6;
+    font-family: 'Inter', serif;
+}
+
+.main-background-color {
+    background-color: #C2E3DC;
+}
+
+.header-wrapper {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    transition: transform 0.3s ease-in-out;
+    will-change: transform;
+    background-color: #C2E3DC;
+}
+
+.header-top {
+    top: 0;
+    z-index: 1030;
+    background-color: #C2E3DC;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+    border-bottom: 1px solid #B7DDD3;
+}
+
+/* Navbar area */
+.header-nav {
+    background-color: #B7DDD3;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+    /* Nav links */
+    .header-nav a {
+        color: #2E4D48;
+        text-decoration: none;
+        cursor: pointer;
+        font-weight: 500;
+        transition: color 0.3s ease;
+    }
+
+        .header-nav a:hover {
+            color: #5D8379;
+        }
+h1, h2, h3 {
+    color: #1F1F1F; /* Deep charcoal for strong readability */
+    font-family: 'Playfair Display', serif;
+}
+
+h4, h5, h6 {
+    color: #1F1F1F; /* Softer gray for subheadings */
+}
+p{
+    font-size: 1.2rem;
+}
+.btn-custom-primary {
+    background-color: #8EBFB1; /* Rich maroon for an artistic accent */
+    color: black;
+    border: none;
+    padding: 0px 15px;
+    line-height: 40px;
+    border-radius: 22px;
+}
+
+    .btn-custom-primary:hover {
+        background-color: #75A99D; /* Darker maroon for an interactive feel */
+        color: white;
+    }
+
+.btn-custom-secondary {
+    background-color: #A7D7C5; /* Soft clay for subtle contrast */
+    color: black;
+    border: none;
+    padding: 0px 15px;
+    line-height: 40px;
+    border-radius: 22px;
+}
+
+    .btn-custom-secondary:hover {
+        background-color: #93CABA; /* Slightly darker version for hover */
+        color: white;
+    }
+
+.back-btn-custom { /* Soft clay for subtle contrast */
+    color: black;
+    border: none;
+    padding: 0px 15px;
+    line-height: 40px;
+    border-radius: 22px;
+}
+
+    .back-btn-custom:hover {
+        background-color: #93CABA; /* Slightly darker version for hover */
+        color: white;
+    }
+
+.arrow-container {
+    position: relative;
+    width: 75%;
+    height: 2px; /* Height of the arrow line */
+    background: #006D5B; /* Blue line color */
+    margin: 0 auto;
+}
+
+    .arrow-container::after {
+        content: '';
+        position: absolute;
+        top: -5px; /* Adjust the position of the triangle */
+        right: 0;
+        width: 0;
+        height: 0;
+        border-left: 10px solid #006D5B;
+        border-top: 6.5px solid transparent;
+        border-bottom: 6.5px solid transparent;
+    }
+
+.card-body {
+    padding: 2rem;
+}
+
+.city {
+    font-size: 1.5rem;
+}
+
+.time {
+    font-size: 1.25rem;
+    color: #666;
+}
+
+.create-flight-container .form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+    .create-flight-container .form-group label {
+        flex: 0 0 120px;
+        margin-right: 15px;
+        text-align: left;
+        line-height: 1.5;
+    }
+
+    .create-flight-container .form-group input {
+        flex: 1;
+        padding: 10px;
+        border-radius: 22px;
+        border: 1px solid #ccc;
+        width: 70%;
+    }
+
+        .create-flight-container .form-group input:focus {
+            border-color: #397D81;
+            box-shadow: 0 0 5px rgba(57, 125, 129, 0.5);
+            outline: none;
+        }
+
+    .create-flight-container .form-group select {
+        flex: 1;
+        padding: 10px;
+        border-radius: 22px;
+        border: 1px solid #ccc;
+        width: 70%;
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        background-color: #fff;
+        background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='5'%3E%3Cpath fill='%23999' d='M0 0l5 5 5-5z'/%3E%3C/svg%3E");
+        background-repeat: no-repeat;
+        background-position: right 10px center;
+        background-size: 10px 5px;
+        cursor: pointer;
+        font-size: 1rem;
+    }
+
+        .create-flight-container .form-group select:focus {
+            border-color: #397D81;
+            box-shadow: 0 0 5px rgba(57, 125, 129, 0.5);
+            outline: none;
+        }
+
+        .create-flight-container .form-group select option[value=""] {
+            color: #999;
+        }
+/* Optional: Style the validation error message */
+.text-danger {
+    font-size: 0.875rem; /* Slightly smaller text */
+}
+.register-input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    margin: 0 auto; /* Center the input horizontally */
+    display: block;
+    transition: all 0.2s ease-in-out;
+}
+
+.register-input:focus {
+    border-color: #397D81;
+    box-shadow: 0 0 5px rgba(57, 125, 129, 0.5);
+    outline: none;
+}
+.login-input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    display: block;
+    transition: all 0.2s ease-in-out;
+}
+
+    .login-input:focus {
+        border-color: #397D81;
+        box-shadow: 0 0 5px rgba(57, 125, 129, 0.5);
+        outline: none;
+    }
+.form-check-input {
+    width: 1.1rem;
+    height: 1.1rem;
+    border: 1px solid #397D81;
+    cursor: pointer;
+    accent-color: #397D81; /* modern browsers */
+}
+
+.form-check-label {
+    font-size: 0.95rem;
+    color: #333;
+    user-select: none;
+}

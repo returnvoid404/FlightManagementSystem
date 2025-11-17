@@ -1,0 +1,821 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DBMS Project\\FlightManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\admin\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\admin\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\admin\\listroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\admin\\listroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\error\\errorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\error\\errorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\admin\\editrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\admin\\editrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\bookings\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\bookings\\mybookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\admin\\editflight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\admin\\editflight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\account\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\account\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\viewmodels\\adminflightdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\viewmodels\\adminflightdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\bookings\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\bookings\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\viewmodels\\flightdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\viewmodels\\flightdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\admin\\editusersinrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\admin\\editusersinrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\admin\\createflight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\admin\\createflight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\models\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\models\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\models\\flightmanagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\models\\flightmanagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\viewmodels\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\viewmodels\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\viewmodels\\editflightviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\viewmodels\\editflightviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\viewmodels\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\viewmodels\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\viewmodels\\createflightviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\viewmodels\\createflightviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\models\\sqlflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\models\\sqlflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\models\\mockflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\models\\mockflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|d:\\dbms project\\flightmanagement\\flightmanagement\\models\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B860D7-B908-4CCB-8A56-E41A09AB94CA}|FlightManagement\\FlightManagement.csproj|solutionrelative:flightmanagement\\models\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "FlightManagement\\appsettings.json",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\appsettings.json",
+              "RelativeToolTip": "FlightManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T12:40:33.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "FlightManagement\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T05:58:41.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T15:30:37.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T15:08:46.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "FlightManagement\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "FlightManagement\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-30T14:22:32.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T13:43:35.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:22:10.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListRoles.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\ListRoles.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Admin\\ListRoles.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\ListRoles.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Admin\\ListRoles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T12:24:37.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateRole.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\CreateRole.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Admin\\CreateRole.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\CreateRole.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Admin\\CreateRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T03:25:47.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorPage.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Error\\ErrorPage.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Error\\ErrorPage.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Error\\ErrorPage.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Error\\ErrorPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T13:45:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FlightManagement\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAYwFgBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:40:18.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FlightManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:50:34.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Program.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Program.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Program.cs",
+              "RelativeToolTip": "FlightManagement\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T14:21:43.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FlightManagement\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FlightManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T18:13:18.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditRole.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\EditRole.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Admin\\EditRole.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\EditRole.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Admin\\EditRole.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T13:51:47.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Bookings\\Create.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T03:11:06.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyBookings.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Bookings\\MyBookings.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Bookings\\MyBookings.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Bookings\\MyBookings.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Bookings\\MyBookings.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T14:17:14.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditFlight.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\EditFlight.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Admin\\EditFlight.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\EditFlight.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Admin\\EditFlight.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:37:55.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Account\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Account\\_Layout.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Account\\_Layout.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Account\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T17:30:31.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Admin\\Details.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Admin\\Details.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T15:43:12.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminFlightDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\AdminFlightDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\ViewModels\\AdminFlightDetailsViewModel.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\AdminFlightDetailsViewModel.cs",
+              "RelativeToolTip": "FlightManagement\\ViewModels\\AdminFlightDetailsViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:41:54.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FlightManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:39:41.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Bookings\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Bookings\\Confirmation.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Bookings\\Confirmation.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Bookings\\Confirmation.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T09:27:31.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Controllers\\BookingsController.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "FlightManagement\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:09:30.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FlightDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\FlightDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\ViewModels\\FlightDetailsViewModel.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\FlightDetailsViewModel.cs",
+              "RelativeToolTip": "FlightManagement\\ViewModels\\FlightDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:09:17.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\Airport.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Models\\Airport.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\Airport.cs",
+              "RelativeToolTip": "FlightManagement\\Models\\Airport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:21:32.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Models\\Flight.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\Flight.cs",
+              "RelativeToolTip": "FlightManagement\\Models\\Flight.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:36:21.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Models\\Booking.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\Booking.cs",
+              "RelativeToolTip": "FlightManagement\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:26:11.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\Passenger.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Models\\Passenger.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\Passenger.cs",
+              "RelativeToolTip": "FlightManagement\\Models\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:26:07.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookingViewModel.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\BookingViewModel.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\ViewModels\\BookingViewModel.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\BookingViewModel.cs",
+              "RelativeToolTip": "FlightManagement\\ViewModels\\BookingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:08:44.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T14:20:56.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T13:43:23.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditUsersInRole.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\EditUsersInRole.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Admin\\EditUsersInRole.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\EditUsersInRole.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Admin\\EditUsersInRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T15:19:15.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateFlight.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\CreateFlight.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Admin\\CreateFlight.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Admin\\CreateFlight.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Admin\\CreateFlight.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T14:27:10.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T13:51:22.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FlightManagement\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FlightManagement\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T02:59:36.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Aircraft.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\Aircraft.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Models\\Aircraft.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\Aircraft.cs",
+              "RelativeToolTip": "FlightManagement\\Models\\Aircraft.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:28:17.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FlightManagementSystemContext.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\FlightManagementSystemContext.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Models\\FlightManagementSystemContext.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\FlightManagementSystemContext.cs",
+              "RelativeToolTip": "FlightManagement\\Models\\FlightManagementSystemContext.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv2MAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:42:28.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserRolesViewModel.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\UserRolesViewModel.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\ViewModels\\UserRolesViewModel.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\UserRolesViewModel.cs",
+              "RelativeToolTip": "FlightManagement\\ViewModels\\UserRolesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:05:13.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "FlightManagement\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:40:35.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "FlightManagement\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:54:59.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EditRoleViewModel.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\ViewModels\\EditRoleViewModel.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeToolTip": "FlightManagement\\ViewModels\\EditRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:25:49.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditFlightViewModel.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\EditFlightViewModel.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\ViewModels\\EditFlightViewModel.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\EditFlightViewModel.cs",
+              "RelativeToolTip": "FlightManagement\\ViewModels\\EditFlightViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:31:36.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateRoleViewModel.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\CreateRoleViewModel.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\ViewModels\\CreateRoleViewModel.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\CreateRoleViewModel.cs",
+              "RelativeToolTip": "FlightManagement\\ViewModels\\CreateRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:27:07.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateFlightViewModel.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\CreateFlightViewModel.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\ViewModels\\CreateFlightViewModel.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\ViewModels\\CreateFlightViewModel.cs",
+              "RelativeToolTip": "FlightManagement\\ViewModels\\CreateFlightViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:06:29.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "FlightManagement\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:56:07.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SQLFlightRepository.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\SQLFlightRepository.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Models\\SQLFlightRepository.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\SQLFlightRepository.cs",
+              "RelativeToolTip": "FlightManagement\\Models\\SQLFlightRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:38:28.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FlightManagement\\appsettings.Development.json",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\appsettings.Development.json",
+              "RelativeToolTip": "FlightManagement\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T06:13:58.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MockFlightRepository.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\MockFlightRepository.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Models\\MockFlightRepository.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\MockFlightRepository.cs",
+              "RelativeToolTip": "FlightManagement\\Models\\MockFlightRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:57:23.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IFlightRepository.cs",
+              "DocumentMoniker": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\IFlightRepository.cs",
+              "RelativeDocumentMoniker": "FlightManagement\\Models\\IFlightRepository.cs",
+              "ToolTip": "D:\\DBMS Project\\FlightManagement\\FlightManagement\\Models\\IFlightRepository.cs",
+              "RelativeToolTip": "FlightManagement\\Models\\IFlightRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:56:34.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
