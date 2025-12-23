@@ -44,21 +44,21 @@ You can create the database in two ways:
 1. Open **SQL Server Management Studio**  
 2. Connect to your SQL Server  
 3. Click **New Query**  
-4. Load `Database/init.sql`  
+4. Load `Queries/SQLQuery.sql`  
 5. Click **Execute**
 
 **Using `sqlcmd`:**
 
 ```bash
-sqlcmd -S YOUR_SERVER -U USER -P PASSWORD -i Database/init.sql
+sqlcmd -S YOUR_SERVER -U USER -P PASSWORD -i Queries/SQLQuery.sql
 ```
 
 ---
 
-### **✅ Option B — Use EF Core Migrations**
+### **✅ Option B — Simply copy paste the DB files into you sql directory**
 
-```bash
-dotnet ef database update --project FlightData --startup-project FlightWebApp
+```Directory inside my project for database files
+FlihtManagementSystem/Db
 ```
 
 ---
