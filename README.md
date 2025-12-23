@@ -101,7 +101,7 @@ dotnet user-secrets set "ConnectionStrings:DefaultConnection" ""
 ## **▶️ Run the Application**
 
 ```bash
-cd FlightWebApp
+cd FlightManagementSystem
 dotnet run
 ```
 
